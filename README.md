@@ -16,6 +16,6 @@
 
 Пример натяжки текстуры на модель 
 ---
- ![Пример натяжки текстуры на модель](https://github.com/KaterinaVat/misis2023f-22-03-vatagina-e-e/blob/main/image-asset.png)
+ ![Чуток теории](https://github.com/KaterinaVat/misis2023f-22-03-vatagina-e-e/blob/main/mage_tex.png)
  
 
