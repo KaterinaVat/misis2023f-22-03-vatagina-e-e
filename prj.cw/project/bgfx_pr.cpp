@@ -17,17 +17,17 @@ struct project_object {
 };
 
 std::map<std::string, std::string> obj_pass = {
-    {"sphere", "D:/proga_pr/projects/bgfx_pr/sphere.obj"},
-    {"face", "D:/proga_pr/projects/bgfx_pr/face.obj"},
-    {"cube", "D:/proga_pr/projects/bgfx_pr/cube.obj"}
+    {"sphere", "/sphere.obj"},
+    {"face", "/face.obj"},
+    {"cube", "/cube.obj"}
 };
 
 
 
 std::map<std::string, std::string> texture_pass = {
-    { "started", "C:/Users/katya/OneDrive/Рабочий стол/d1bd21ec56d7af6c4f54cd3fc421f356.png"},
-    {"skin1", "C:/Users/katya/Downloads/1K - human_skin_4_diffuseOriginal.png"},
-    {"color", "C:/Users/katya/Downloads/pngwing.com.png"}
+    { "started", "/d1bd21ec56d7af6c4f54cd3fc421f356.png"},
+    {"skin1", "/1K - human_skin_4_diffuseOriginal.png"},
+    {"color", "/pngwing.com.png"}
 };
 
 class Object : public igl::opengl::glfw::Viewer
