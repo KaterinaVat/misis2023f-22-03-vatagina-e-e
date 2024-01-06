@@ -1,0 +1,17 @@
+Instructions for texturing objects:
+1. In order to set some texture on the model, you need to press the appropriate key
+
+to set the texture on the skin - press the S
+key to set the texture on the lips - press the G
+key to set the texture on the eyes - press the E
+key to set the texture on the eyebrows - press the B key
+
+then you need to enter the texture number in the console 
+
+2. To load a custom texture, press the X key and hold down the shift key 
+it is necessary to enter the name of the part of the face from the list: skin eye lips browsers strictly observing the case
+then, upon successful execution of the program, you will receive a number 
+
+3. In order to set the color of the blush, press the R key and specify the color values corresponding to rgb through a space
+
+  
