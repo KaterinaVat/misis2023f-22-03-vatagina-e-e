@@ -1,8 +1,8 @@
-# Simur 
+# Simur - текстурирование
 Ссылка на хранилице проекта - https://github.com/Artem04zeb/simur
 -------------------------------------------------------------------
 Продукт разработки является 3D редактором, позволяющим в режими реального времени изменять черты лица (модели)
-
+Используемые бибилиотеки - libigl 
 Индивидуальная задача наложение тектур на сложные объекты и работа с освещением модели
 ![Предварительный вариант рабочего окна](https://github.com/KaterinaVat/misis2023f-22-03-vatagina-e-e/blob/main/Без%20имени.png)
 
@@ -16,10 +16,8 @@
 
 Пример натяжки текстуры на модель 
 ---
- ![Наложение текстуры на модель](https://github.com/KaterinaVat/misis2023f-22-03-vatagina-e-e/blob/main/image-asset.png)
+ ![Наложение текстуры на модель](https://github.com/KaterinaVat/misis2023f-22-03-vatagina-e-e/blob/main/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1.png)
  
- Немного теории
- --
- ![Чуток теории](https://github.com/KaterinaVat/misis2023f-22-03-vatagina-e-e/blob/main/mage_tex.png)
+
  
 
