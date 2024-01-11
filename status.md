@@ -1,5 +1,5 @@
 OK: file codeforces.id is correct
-CHECK: 20240111-171957
+CHECK: 20240111-174225
 OK: folder prj.codeforces structure is correct
 ERROR: file prj.cw/CMakeLists.txt is absent
 ERROR: CMake generator failed
