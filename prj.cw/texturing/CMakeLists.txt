@@ -1,8 +1,6 @@
 ﻿
 cmake_minimum_required (VERSION 3.8)
 
-project ("texturing")
-
 SET(CMAKE_CXX_STANDATR 14)
 
 SET(CMAKE_VERBOSE_MAKEFILE TRUE)
