@@ -10,5 +10,11 @@ set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED True) 
 
 add_subdirectory(prj.cw)
-add_subdirectory(prj.codeforces)
+option(BUILD_WITH_CODEFORCES "Build prj.codeforces targets" off)
+
+if (BUILD_WITH_CODEFORCES)
+  add_subdirectory(prj.codeforces)
+endif()
+
+
 
